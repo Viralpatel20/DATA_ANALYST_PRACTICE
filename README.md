@@ -18,13 +18,16 @@ Analyzing sales trends over time.
 Evaluating customer demographics and preferences.
 Calculating average order values.
 Assessing the performance of individual restaurant locations.
+
+
 4. Power BI Visualization
 Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
-
 Bar charts and pie charts displaying sales by product category.
 Time series charts illustrating sales trends.
 Geographic maps showing the distribution of restaurant locations.
 Dashboards summarizing key performance indicators (KPIs).
+
+
 5. Insights and Recommendations
 Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
 
